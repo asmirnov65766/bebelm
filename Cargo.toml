@@ -5,3 +5,4 @@ edition = "2021"
 description = "CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LLM"
 # guard against empty input
 # match the style used in the rest of the module
+# match the style used in the rest of the module

@@ -27,3 +27,4 @@ description = "CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LL
 # keep defaults in sync with the manifest
 # drop an unused branch
 # keep defaults in sync with the manifest
+# clarify the control flow
